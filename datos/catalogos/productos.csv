@@ -1,0 +1,21 @@
+id_producto,producto,especificacion,grupo,unidad_base,presentacion_referencia,cantidad_semanal,factor_piezas_kg,activo
+P01,Tortilla,"De maíz, por kilo",perecedero,kg,1,5.0,,1
+P02,Huevo,"Blanco, a granel o en paquete",perecedero,kg,1,1.5,,1
+P03,Arroz,"Súper extra, grano largo",abarrote,kg,1,1.0,,1
+P04,Frijol,"Negro, a granel o empacado",abarrote,kg,1,1.5,,1
+P05,Leche,"Entera de vaca, pasteurizada o ultrapasteurizada",abarrote,L,1,7.0,,1
+P06,Aceite,"Vegetal comestible de soya, canola o mixto",abarrote,L,1,1.0,,1
+P07,Pollo,Entero y fresco,perecedero,kg,1,2.0,,1
+P08,Azúcar,Estándar,abarrote,kg,1,1.0,,1
+P09,Jitomate,Saladet,perecedero,kg,1,2.0,,1
+P10,Cebolla,Blanca,perecedero,kg,1,1.0,,1
+P11,Papa,Blanca,perecedero,kg,1,2.0,,1
+P12,Pasta,"Para sopa, fideo o codo",abarrote,kg,0.2,0.8,,1
+P13,Plátano,Tabasco,perecedero,kg,1,1.5,,1
+P14,Limón,Con o sin semilla,perecedero,kg,1,1.0,,1
+P15,Atún,"En agua, en lata, por peso neto",abarrote,kg,0.14,0.42,,1
+P16,Pan de caja,"Blanco, grande",abarrote,kg,0.68,0.68,,1
+P17,Zanahoria,"Fresca, a granel",perecedero,kg,1,,,0
+P18,Chile serrano,"Fresco, a granel",perecedero,kg,1,,,0
+P19,Manzana,"Fresca, a granel",perecedero,kg,1,,,0
+P20,Avena,"En hojuelas, empacada",abarrote,kg,0.4,,,0

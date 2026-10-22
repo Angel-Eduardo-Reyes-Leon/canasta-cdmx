@@ -1,0 +1,46 @@
+id_establecimiento,nombre,tipo_comercio,subtipo,cadena,zona,alcaldia,colonia,domicilio,latitud,longitud,punto_referencia,dist_transporte_m,dist_referencia_km,acepta_tarjeta,dia_visita,equipo_responsable,estado_catalogo
+N-MER-01,,mercado,,,Norte,Gustavo A. Madero,,,,,Metro Deportivo 18 de Marzo,,,,,1,activo
+N-MER-02,,mercado,,,Norte,Gustavo A. Madero,,,,,Metro Deportivo 18 de Marzo,,,,,1,activo
+N-SUP-01,,supermercado,,,Norte,Gustavo A. Madero,,,,,Metro Deportivo 18 de Marzo,,,,,1,activo
+N-BAR-01,,barrio,,,Norte,Gustavo A. Madero,,,,,Metro Deportivo 18 de Marzo,,,,,1,activo
+N-BAR-02,,barrio,,,Norte,Gustavo A. Madero,,,,,Metro Deportivo 18 de Marzo,,,,,1,activo
+N-MER-03,,mercado,,,Norte,Azcapotzalco,,,,,Metro Azcapotzalco,,,,,1,activo
+N-SUP-02,,supermercado,,,Norte,Azcapotzalco,,,,,Metro Azcapotzalco,,,,,1,activo
+N-SUP-03,,supermercado,,,Norte,Azcapotzalco,,,,,Metro Azcapotzalco,,,,,1,activo
+N-BAR-03,,barrio,,,Norte,Azcapotzalco,,,,,Metro Azcapotzalco,,,,,1,activo
+C-MER-01,,mercado,,,Centro,Cuauhtémoc,,,,,Metro Centro Médico,,,,,1,activo
+C-SUP-01,,supermercado,,,Centro,Cuauhtémoc,,,,,Metro Centro Médico,,,,,1,activo
+C-BAR-01,,barrio,,,Centro,Cuauhtémoc,,,,,Metro Centro Médico,,,,,1,activo
+C-MER-02,,mercado,,,Centro,Cuauhtémoc,,,,,Metro Centro Médico,,,,,2,activo
+C-BAR-02,,barrio,,,Centro,Cuauhtémoc,,,,,Metro Centro Médico,,,,,2,activo
+C-MER-03,,mercado,,,Centro,Benito Juárez,,,,,Metro Etiopía,,,,,3,activo
+C-SUP-02,,supermercado,,,Centro,Benito Juárez,,,,,Metro Etiopía,,,,,3,activo
+C-SUP-03,,supermercado,,,Centro,Benito Juárez,,,,,Metro Etiopía,,,,,4,activo
+C-BAR-03,,barrio,,,Centro,Benito Juárez,,,,,Metro Etiopía,,,,,4,activo
+O-MER-01,,mercado,,,Oriente,Iztapalapa,,,,,Metro Constitución de 1917,,,,,2,activo
+O-MER-02,,mercado,,,Oriente,Iztapalapa,,,,,Metro Constitución de 1917,,,,,2,activo
+O-SUP-01,,supermercado,,,Oriente,Iztapalapa,,,,,Metro Constitución de 1917,,,,,2,activo
+O-BAR-01,,barrio,,,Oriente,Iztapalapa,,,,,Metro Constitución de 1917,,,,,2,activo
+O-BAR-02,,barrio,,,Oriente,Iztapalapa,,,,,Metro Constitución de 1917,,,,,2,activo
+O-MER-03,,mercado,,,Oriente,Iztacalco,,,,,Metro Santa Anita,,,,,2,activo
+O-SUP-02,,supermercado,,,Oriente,Iztacalco,,,,,Metro Santa Anita,,,,,2,activo
+O-SUP-03,,supermercado,,,Oriente,Iztacalco,,,,,Metro Santa Anita,,,,,2,activo
+O-BAR-03,,barrio,,,Oriente,Iztacalco,,,,,Metro Santa Anita,,,,,2,activo
+S-MER-01,,mercado,,,Sur,Coyoacán,,,,,Metro Universidad,,,,,3,activo
+S-MER-02,,mercado,,,Sur,Coyoacán,,,,,Metro Universidad,,,,,3,activo
+S-SUP-01,,supermercado,,,Sur,Coyoacán,,,,,Metro Universidad,,,,,3,activo
+S-BAR-01,,barrio,,,Sur,Coyoacán,,,,,Metro Universidad,,,,,3,activo
+S-BAR-02,,barrio,,,Sur,Coyoacán,,,,,Metro Universidad,,,,,3,activo
+S-MER-03,,mercado,,,Sur,Tlalpan,,,,,Metrobús Fuentes Brotantes,,,,,3,activo
+S-SUP-02,,supermercado,,,Sur,Tlalpan,,,,,Metrobús Fuentes Brotantes,,,,,3,activo
+S-SUP-03,,supermercado,,,Sur,Tlalpan,,,,,Metrobús Fuentes Brotantes,,,,,3,activo
+S-BAR-03,,barrio,,,Sur,Tlalpan,,,,,Metrobús Fuentes Brotantes,,,,,3,activo
+P-MER-01,,mercado,,,Poniente,Álvaro Obregón,,,,,Metro Observatorio,,,,,4,activo
+P-MER-02,,mercado,,,Poniente,Álvaro Obregón,,,,,Metro Observatorio,,,,,4,activo
+P-SUP-01,,supermercado,,,Poniente,Álvaro Obregón,,,,,Metro Observatorio,,,,,4,activo
+P-BAR-01,,barrio,,,Poniente,Álvaro Obregón,,,,,Metro Observatorio,,,,,4,activo
+P-BAR-02,,barrio,,,Poniente,Álvaro Obregón,,,,,Metro Observatorio,,,,,4,activo
+P-MER-03,,mercado,,,Poniente,Miguel Hidalgo,,,,,Metro Tacuba,,,,,4,activo
+P-SUP-02,,supermercado,,,Poniente,Miguel Hidalgo,,,,,Metro Tacuba,,,,,4,activo
+P-SUP-03,,supermercado,,,Poniente,Miguel Hidalgo,,,,,Metro Tacuba,,,,,4,activo
+P-BAR-03,,barrio,,,Poniente,Miguel Hidalgo,,,,,Metro Tacuba,,,,,4,activo

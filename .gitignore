@@ -1,0 +1,26 @@
+# Fotos de evidencia: se guardan en la carpeta compartida de Drive
+datos/fotos/
+*.jpg
+*.jpeg
+*.heic
+
+# Archivos completos de PROFECO, solo se sube la versión filtrada
+datos/externos/qqp_completo/
+
+# Credenciales del formulario y secretos
+credenciales*.json
+.env
+.streamlit/secrets.toml
+
+# Python y notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
