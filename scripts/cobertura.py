@@ -16,7 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.comun import RAIZ  # noqa: E402
 
 META_POR_RONDA = 500
-META_EQUIPO = {1: 800, 2: 734, 3: 734, 4: 734}
+META_EQUIPO = {1: 734, 2: 800, 3: 734, 4: 734}
 CONTROLES = {3: 1500, 5: 2500, 6: 3000}
 
 

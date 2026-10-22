@@ -22,8 +22,8 @@ Proyecto del grupo 7AM1 para Modelos Econométricos, ESCOM-IPN. Entrega final: 5
 
 | Equipo | Zona | Comité que coordina el líder |
 |---|---|---|
-| 1 | Norte y 3 establecimientos de Cuauhtémoc | Datos |
-| 2 | Oriente y 2 de Cuauhtémoc | Econometría |
+| 1 | Oriente y 2 establecimientos de Cuauhtémoc | Datos |
+| 2 | Norte y 3 de Cuauhtémoc | Econometría |
 | 3 | Sur y 2 de Benito Juárez | Predicción |
 | 4 | Poniente y 2 de Benito Juárez | Aplicación |
 
