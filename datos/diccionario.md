@@ -2,7 +2,7 @@
 
 ## Archivos de datos/original
 
-Un CSV por ronda y equipo, exportado del formulario. Una fila es un producto en un establecimiento en una ronda. Las columnas, en orden, están en `datos/plantilla_captura.csv`.
+Un CSV por ronda y equipo, exportado del formulario. Una fila es un producto en un establecimiento en una ronda. Los encabezados del CSV son los nombres de esta tabla, en este orden.
 
 | Variable | Tipo | Valores o unidad | Descripción |
 |---|---|---|---|
